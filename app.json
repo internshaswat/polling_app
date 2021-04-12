@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ranting-turkish-delight",
+    "slug": "snack-64eaf1c6-54ed-4708-9e8f-02adb368ec57",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sacsin.snack64eaf1c654ed47089e8f02adb368ec57"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
